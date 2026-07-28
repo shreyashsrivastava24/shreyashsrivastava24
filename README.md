@@ -10,13 +10,13 @@
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=shreyashsrivastava24&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=shreyashsrivastava24&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=shreyashsrivastava24&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## 📊 GitHub Stats
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shreyashsrivastava24&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-readme-stats.shion.dev/api?username=shreyashsrivastava24&theme=shadow_green&show_icons=true&rank_icon=github&hide_border=false&border_radius=12&include_all_commits=true&count_private=true)
+
+![](https://streak-stats.demolab.com?user=shreyashsrivastava24&theme=shadow_green&hide_border=false&border_radius=12)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=shreyashsrivastava24&theme=shadow_green&hide_border=false&border_radius=12&layout=compact&langs_count=8)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

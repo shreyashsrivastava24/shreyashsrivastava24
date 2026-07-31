@@ -10,6 +10,7 @@
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.shion.dev/api?username=shreyashsrivastava24&theme=shadow_green&show_icons=true&rank_icon=github&hide_border=false&border_radius=12&include_all_commits=true&count_private=true)
